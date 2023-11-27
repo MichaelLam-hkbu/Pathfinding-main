@@ -25,7 +25,5 @@ https://github.com/honzaap/Pathfinding/assets/58147774/1a5e5c50-5e13-4738-b67a-2
 4. Run `vite` or `npm run dev`
 
 ## Available algorithms 
-- A* algorithm
-- Greedy algorithm
 - Dijkstra's algorithm
-- Bidirectional Search algorithm
+
